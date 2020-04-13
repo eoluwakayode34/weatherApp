@@ -1,0 +1,14 @@
+[
+    {"president": [
+        {"first":"Olagundoye", "last":"Olagundoye", "served":"1990-1998"},
+        {"first":"John", "last":"Olagundoye", "served":"1990-1998"},
+        {"first":"Thomas", "last":"Olagundoye", "served":"1990-1998"}
+    ], 
+    "vicepresident":
+        [
+            {"first":"Olatunde", "last":"Olagundoye"},
+            {"first":"Olatude", "last":"Olagundoye"},
+            {"first":"Steven", "last":"Olagundoye"}
+           
+        ] }
+]
